@@ -1,6 +1,9 @@
 ## 👨‍💻 I'm Zain Murtaza
-![Profile](https://img.shields.io/badge/MERN%20Stack%20Developer-Full%20Stack-blue)
 
+🚀 Full Stack MERN Developer specializing in modern web applications.  
+⚡ Focused on performance, scalability, and clean architecture.  
+🎯 Turning complex ideas into simple, real-world solutions.
+---
 ## 🚀 Skills
 
 ### Frontend
