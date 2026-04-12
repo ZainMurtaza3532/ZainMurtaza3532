@@ -1,8 +1,9 @@
 ## 👨‍💻 I'm Zain Murtaza
 
-`🚀 Full Stack MERN Developer specializing in modern web applications.  
+🚀 Full Stack MERN Developer specializing in modern web applications.  
 ⚡ Focused on performance, scalability, and clean architecture.  
-🎯 Turning complex ideas into simple, real-world solutions.`
+🎯 Turning complex ideas into simple, real-world solutions.
+
 ---
 ## 🚀 Skills
 
