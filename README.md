@@ -1,5 +1,5 @@
 ## 👨‍💻 I'm Zain Murtaza
-`🚀 MERN Stack Developer | Clean Code • Scalable Apps • Real Projects`
+![Profile](https://img.shields.io/badge/MERN%20Stack%20Developer-Full%20Stack-blue)
 
 ## 🚀 Skills
 
