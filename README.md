@@ -2,10 +2,8 @@
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,reat,tailwind,bootstrap)](https://skillicons.dev)
-
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,Express)](https://skillicons.dev)
-
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 <!--
