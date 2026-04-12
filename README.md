@@ -1,6 +1,5 @@
 ## 👨‍💻 I'm Zain Murtaza
 `🚀 MERN Stack Developer | Clean Code • Scalable Apps • Real Projects`
----
 
 ## 🚀 Skills
 
