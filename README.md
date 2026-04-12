@@ -6,7 +6,6 @@
 
 ---
 ## 🚀 Skills
-
 ---
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
