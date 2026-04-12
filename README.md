@@ -1,6 +1,7 @@
 ## 👨‍💻 I'm Zain Murtaza
 
 ## Skills
+---
 
 ### 🚀 Frontend
 <p>
