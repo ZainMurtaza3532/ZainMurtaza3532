@@ -1,10 +1,13 @@
 ## 👨‍💻 I'm Zain Murtaza
+---
+
 ## 🚀 Skills
-**Frontend**  
+
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
-**Backend**  
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Database**  
+### Database
 <img src="https://skillicons.dev/icons?i=mongodb" />
