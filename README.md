@@ -1,11 +1,8 @@
 ## I'm Zain Murtaza
 
-## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,reat,tailwind,bootstrap)](https://skillicons.dev)
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,Express)](https://skillicons.dev)
-## Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+## Frontend[![My Skills](https://skillicons.dev/icons?i=html,css,js,reat,tailwind,bootstrap)](https://skillicons.dev)
+## Backend[![My Skills](https://skillicons.dev/icons?i=nodejs,Express)](https://skillicons.dev)
+## Database[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 <!--
 **ZainMurtaza3532/ZainMurtaza3532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
