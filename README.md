@@ -1,5 +1,7 @@
 ## I'm Zain Murtaza
 
+![Tech](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind)
+
 <!--
 **ZainMurtaza3532/ZainMurtaza3532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
