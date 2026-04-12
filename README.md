@@ -1,4 +1,5 @@
 ## 👨‍💻 I'm Zain Murtaza
+<hr style="height:3px;border:none;background-color:white;">
 
 ## Skills
 ---
