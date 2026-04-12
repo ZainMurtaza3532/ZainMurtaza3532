@@ -1,19 +1,22 @@
-## I'm Zain Murtaza
+## 👨‍💻 I'm Zain Murtaza
 
-## Frontend[![My Skills](https://skillicons.dev/icons?i=html,css,js,reat,tailwind,bootstrap)](https://skillicons.dev)
-## Backend[![My Skills](https://skillicons.dev/icons?i=nodejs,Express)](https://skillicons.dev)
-## Database[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-<!--
-**ZainMurtaza3532/ZainMurtaza3532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
