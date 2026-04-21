@@ -3,17 +3,35 @@
 <h3 align="center">🚀 Full Stack MERN Developer | Building Scalable Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps;Open+to+Opportunities+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-💡 Passionate Full Stack Developer with expertise in the **MERN Stack**  
+💡 Passionate Full Stack Developer specializing in the **MERN Stack**  
 ⚡ Focused on **performance, scalability & clean architecture**  
 🎯 I turn complex ideas into **simple, real-world solutions**  
 🔥 Currently building advanced **full-stack & frontend projects**  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ZainMurtaza3532" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/zain-murtaza-web/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:zainmurtaza3532@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -50,45 +68,31 @@
 ## 📂 Featured Projects
 
 🔹 **E-Commerce Web App**  
-👉 Full-featured store with cart, filters, and authentication  
-
-🔹 **Portfolio Website**  
-👉 Animated, responsive personal portfolio  
+👉 Full-featured store with authentication, cart & filters  
 
 🔹 **Food Ordering App (React)**  
-👉 Context-based cart system & dynamic UI  
+👉 Context API based cart system & dynamic UI  
+
+🔹 **Portfolio Website**  
+👉 Fully responsive with animations & modern UI  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/zain-murtaza-web" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:zainmurtaza3532@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZainMurtaza3532&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainMurtaza3532&theme=tokyonight" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💬 I love turning ideas into **real-world applications** that solve problems.
+💬 I enjoy building applications that solve real-world problems and improve user experience.
 
 ---
 
 <p align="center">
-  ⭐ Don't forget to star my repositories if you like my work!
+  ⭐ If you like my work, don't forget to star my repositories!
 </p>
