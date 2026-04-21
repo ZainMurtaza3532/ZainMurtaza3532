@@ -8,14 +8,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZainMurtaza3532&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 💡 Passionate Full Stack Developer specializing in the **MERN Stack**  
@@ -25,42 +17,20 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ZainMurtaza3532" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/zain-murtaza-web/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:zainmurtaza3532@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://wa.me/923134222312?text=Hi%20Zain%2C%20I%20want%20to%20work%20with%20you" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ### 🎨 Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
@@ -90,14 +60,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZainMurtaza3532&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -107,10 +69,25 @@
 
 ---
 
-## 💻 Most Used Languages
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainMurtaza3532&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/ZainMurtaza3532" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/zain-murtaza-web/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:zainmurtaza3532@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- WHATSAPP -->
+  <a href="https://wa.me/923134222312?text=Hi%20Zain%2C%20I%20want%20to%20work%20with%20you" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
