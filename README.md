@@ -8,12 +8,23 @@
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-💡 Passionate Full Stack Developer specializing in the **MERN Stack**  
-⚡ Focused on **performance, scalability & clean architecture**  
-🎯 I turn complex ideas into **simple, real-world solutions**  
-🔥 Currently building advanced **full-stack & frontend projects**  
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+💡 Passionate **Full Stack MERN Developer** focused on creating fast, scalable, and user-friendly web applications.
+
+⚡ Skilled in building modern frontend interfaces and optimized backend systems using the MERN Stack.
+
+🎯 I enjoy transforming real-world ideas into interactive digital solutions with clean architecture and smooth user experiences.
+
+🔥 Currently improving my expertise in advanced frontend development, backend architecture, and scalable application design.
+
+🚀 Always learning modern technologies, best practices, and performance optimization techniques.
+
+📌 Goal: To build impactful software products and grow as a professional full stack engineer.
+
+<br clear="right"/>
 
 ---
 
@@ -32,6 +43,12 @@
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+## 🧰 Tools & Platforms
+
+<p >
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,netlify,vercel" />
 </p>
 
 ---
