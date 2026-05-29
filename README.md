@@ -1,34 +1,37 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Zain Murtaza</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Building Scalable Web Apps</h3>
+
+<h3 align="center">
+🚀 Full Stack MERN Developer | Building Modern & Scalable Web Apps
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps;Open+to+Opportunities+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture;Open+to+Work+and+Collaborations+%F0%9F%9A%80" />
 </p>
 
 ---
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-💡 Passionate **Full Stack MERN Developer** focused on creating fast, scalable, and user-friendly web applications.
+💡 Passionate **Full Stack MERN Developer** focused on building fast, scalable, and user-friendly web applications.
 
-⚡ Skilled in building modern frontend interfaces and optimized backend systems using the MERN Stack.
+⚡ Skilled in creating responsive frontend interfaces and optimized backend systems using the **MERN Stack**.
 
-🎯 I enjoy transforming real-world ideas into interactive digital solutions with clean architecture and smooth user experiences.
+🎯 I enjoy turning real-world ideas into clean, interactive, and modern digital solutions.
 
-🔥 Currently improving my expertise in advanced frontend development, backend architecture, and scalable application design.
+🚀 Currently learning advanced frontend patterns, scalable backend architecture, and performance optimization.
 
-🚀 Always learning modern technologies, best practices, and performance optimization techniques.
+📚 Always exploring new technologies, tools, and development best practices.
 
-📌 Goal: To build impactful software products and grow as a professional full stack engineer.
+📌 Goal: To grow as a professional software engineer and build impactful products.
 
 <br clear="right"/>
 
 ---
 
-### 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### 🎨 Frontend
 <p>
@@ -45,62 +48,68 @@
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-## 🧰 Tools & Platforms
+### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
 </p>
 
 ---
 
-## 🧠 Skills & Expertise
+# 🧠 Skills & Expertise
 
 ✔️ Responsive Web Design  
 ✔️ RESTful API Development  
 ✔️ Authentication (JWT)  
-✔️ State Management (Context API)  
+✔️ Context API State Management  
 ✔️ Clean Code & Scalable Architecture  
 ✔️ Modern UI/UX Design  
+✔️ API Integration  
+✔️ Performance Optimization  
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-🔹 **E-Commerce Web App**  
-👉 Full-featured store with authentication, cart & filters  
+### 🛒 E-Commerce Web App
+👉 Authentication, cart system, filters, and responsive UI.
 
-🔹 **Food Ordering App (React)**  
-👉 Context API based cart system & dynamic UI  
+### 🍔 Food Ordering App
+👉 React + Context API based dynamic food ordering application.
 
-🔹 **Portfolio Website**  
-👉 Fully responsive with animations & modern UI  
+### 🌐 Portfolio Website
+👉 Responsive personal portfolio with animations and modern UI.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZainMurtaza3532&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainMurtaza3532&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZainMurtaza3532&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainMurtaza3532&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainMurtaza3532&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ZainMurtaza3532" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/zain-murtaza-web/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="mailto:zainmurtaza3532@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- WHATSAPP -->
   <a href="https://wa.me/923134226313?text=Hi%20Zain%2C%20I%20want%20to%20work%20with%20you" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -108,12 +117,12 @@
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-💬 I enjoy building applications that solve real-world problems and improve user experience.
+💬 I enjoy building applications that solve real-world problems and improve user experiences.
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, don't forget to star my repositories!
+  ⭐ If you like my work, consider starring my repositories!
 </p>
