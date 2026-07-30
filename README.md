@@ -86,14 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZainMurtaza3532&show_icons=true&theme=radical" alt="Zain's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainMurtaza3532&theme=radical" alt="Zain's GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
