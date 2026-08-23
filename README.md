@@ -26,7 +26,7 @@ I am a software engineer specializing in the **MERN Stack**, dedicated to buildi
 ## 💻 Tech Stack & Tools
 
 **Frontend:** <br>
-[![Frontend](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap)](#)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](#)
 
 **Backend & Database:** <br>
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
