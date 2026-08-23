@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zain Murtaza</h1>
 
 <h3 align="center">
-  🚀 Full Stack MERN Developer | Building Modern & Scalable Web Apps
+  🚀 Full Stack Developer | Building Modern & Scalable Web Apps
 </h3>
 
 <p align="center">
@@ -13,105 +13,31 @@
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+I am a software engineer specializing in the **MERN Stack**, dedicated to building high-performance, user-centric web applications. I bridge the gap between intuitive frontend interfaces and robust backend architectures.
 
-- 💡 Passionate **Full Stack MERN Developer** focused on building fast, scalable, and user-friendly web applications.
-- ⚡ Skilled in creating responsive frontend interfaces and optimized backend systems using the **MERN Stack**.
-- 🎯 I enjoy turning real-world ideas into clean, interactive, and modern digital solutions.
-- 🚀 Currently learning advanced frontend patterns, scalable backend architecture, and performance optimization.
-- 📚 Always exploring new technologies, tools, and development best practices.
-- 📌 Goal: To grow as a professional software engineer and build impactful products.
-
-<br clear="right"/>
+*   🚀 **Currently focusing on:** Microservices architecture, advanced state management, and web performance optimization.
+*   🛠 **Problem Solver:** I thrive on turning complex business requirements into clean, maintainable, and scalable digital products.
+*   🤝 **Collaboration:** Always eager to contribute to open-source projects or partner on innovative tech solutions.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack & Tools
 
-### 🎨 Frontend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills" />
-  </a>
-</p>
+**Frontend:** <br>
+[![Frontend](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap)](#)
 
-### ⚙️ Backend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
-  </a>
-</p>
+**Backend & Database:** <br>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
 
-### 🗄️ Database
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="Database Skills" />
-  </a>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" alt="Tools and Platforms" />
-  </a>
-</p>
+**DevOps & Tools:** <br>
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify)](#)
 
 ---
 
-## 🧠 Skills & Expertise
+🤝 Let's Connect
 
-| UI/UX & Frontend | Backend & Architecture | Optimization & Tools |
-| :--- | :--- | :--- |
-| ✔️ Responsive Web Design | ✔️ RESTful API Development | ✔️ API Integration |
-| ✔️ Modern UI/UX Design | ✔️ Authentication (JWT) | ✔️ Performance Optimization |
-| ✔️ Context API State Management | ✔️ Scalable Architecture | ✔️ Clean Code Practices |
+<p align="center"> <a href="https://www.linkedin.com/in/zain-murtaza-web/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:zainmurtaza3532@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://wa.me/923134226313"> <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 [E-Commerce Web App](#) <!-- Replace # with your repo link -->
-> **Tech Stack:** React, Node.js, Express, MongoDB
-> <br> Features secure user authentication, a comprehensive cart system, dynamic product filters, and a fully responsive UI.
-
-### 🍔 [Food Ordering App](#) <!-- Replace # with your repo link -->
-> **Tech Stack:** React, Context API
-> <br> Dynamic food ordering application with real-time cart updates and state management using React Context API.
-
-### 🌐 [Portfolio Website](#) <!-- Replace # with your repo link -->
-> **Tech Stack:** React, CSS Animations
-> <br> Responsive personal portfolio showcasing projects, interactive animations, and a modern user interface.
-
----
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ZainMurtaza3532" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/zain-murtaza-web/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zainmurtaza3532@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/923134226313?text=Hi%20Zain%2C%20I%20want%20to%20work%20with%20you" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-💬 I genuinely enjoy building applications that solve real-world problems and create seamless experiences for users.
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+<p align="center"> <b>🚀 Building. Learning. Improving.</b> <br/> <sub>Always open to interesting projects, opportunities and collaborations.</sub> </p>
