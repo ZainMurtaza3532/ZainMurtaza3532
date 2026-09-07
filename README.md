@@ -1,13 +1,36 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Zain Murtaza</h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Building Modern & Scalable Web Apps
+  🚀 Full Stack Developer
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture;Open+to+Work+and+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZainMurtaza3532">
+    <img src="https://skillicons.dev/icons?i=github" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zain-murtaza-web/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zainmurtaza3532@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/923134226313">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="36" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://zain-murtaza.vercel.app">
+    🌐 <b>Visit My Portfolio →</b>
   </a>
 </p>
 
@@ -15,29 +38,59 @@
 
 ## 👨‍💻 About Me
 
-I am a software engineer specializing in the **MERN Stack**, dedicated to building high-performance, user-centric web applications. I bridge the gap between intuitive frontend interfaces and robust backend architectures.
+I'm a **Full Stack Developer** passionate about building modern, responsive, and scalable web applications.
 
-*   🚀 **Currently focusing on:** Microservices architecture, advanced state management, and web performance optimization.
-*   🛠 **Problem Solver:** I thrive on turning complex business requirements into clean, maintainable, and scalable digital products.
-*   🤝 **Collaboration:** Always eager to contribute to open-source projects or partner on innovative tech solutions.
+I enjoy turning ideas into real-world digital products by combining **clean frontend experiences with reliable backend systems and well-structured APIs**.
 
----
+My primary focus is the **MERN Stack**, while also working with **Next.js and TypeScript** to build modern, maintainable applications.
 
-## 💻 Tech Stack & Tools
-
-**Frontend:** <br>
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](#)
-
-**Backend & Database:** <br>
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
-
-**DevOps & Tools:** <br>
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify)](#)
+* 🚀 Full-stack web application development
+* ⚛️ React & Next.js development
+* 🔷 TypeScript for scalable applications
+* 🔌 REST API development & integration
+* 🗄️ MongoDB, Firebase & Supabase
+* 🎨 Responsive UI with Tailwind CSS
+* 🔐 Authentication & secure application development
+* 🌱 Continuously learning and improving
 
 ---
 
-🤝 Let's Connect
+## 🛠️ Tech Stack
 
-<p align="center"> <a href="https://www.linkedin.com/in/zain-murtaza-web/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:zainmurtaza3532@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://wa.me/923134226313"> <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> </p>
+### Frontend
 
-<p align="center"> <b>🚀 Building. Learning. Improving.</b> <br/> <sub>Always open to interesting projects, opportunities and collaborations.</sub> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Development-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Applications-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive_UI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database_Integration-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>🚀 Building • Learning • Improving</b>
+</p>
