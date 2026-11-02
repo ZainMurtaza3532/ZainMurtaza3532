@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi 👋, I'm <span style="color: #00F7FF;">Zain Murtaza</span></h1>
+  <h1>Hi 👋, I'm <span style="color: #00bc7d;">Zain Murtaza</span></h1>
   <p><strong>🚀 Full Stack Engineer | Scalable Architectures & Modern Web Apps</strong></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+REST+APIs;MongoDB+%7C+Firebase+%7C+Supabase;Building+High-Performance+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00bc7d&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+REST+APIs;MongoDB+%7C+Firebase+%7C+Supabase;Building+High-Performance+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
